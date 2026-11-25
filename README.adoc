@@ -6,4 +6,4 @@ This workshop focuses on https://quarkus.io[Quarkus], supersonic, subatomic cont
 
 Red Hat OpenShift version: 4.20
 
-To start DevSpaces Workspace : https://devspaces.apps.cluster-c2l6d.dyn.redhatworkshops.io/?url=https://github.com/rb16b/quarkus-workshop-m1m2-labs/blob/rhbq-3.27/.devfile.yaml
+To start DevSpaces Workspace : https://devspaces.apps.cluster-c2l6d.dyn.redhatworkshops.io/#GIT_REPOSITORY_URL=https://github.com/rb16b/quarkus-workshop-m1m2-labs/blob/rhbq-3.27/.devfile.yaml
